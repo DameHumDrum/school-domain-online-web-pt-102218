@@ -16,6 +16,6 @@ class School
   end
   
   def sort_student
-    roster.sort
+    roster.sort_by { |
 
 end

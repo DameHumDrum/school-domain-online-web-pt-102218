@@ -20,3 +20,5 @@ class School
       name.sort a<=>b
   end
 end
+
+end

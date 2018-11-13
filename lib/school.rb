@@ -15,8 +15,7 @@ class School
    return roster[student_grade]
   end
   
-  def sort_student(student_names)
-    student_names.sort_by { |roster| roster[:name] 
+  def sort_student
   end
 
 end

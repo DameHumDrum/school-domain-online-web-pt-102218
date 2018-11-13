@@ -15,5 +15,7 @@ class School
    return roster[student_grade]
   end
   
+  def sort_student
+    roster.eac
 
 end

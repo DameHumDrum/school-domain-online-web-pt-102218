@@ -15,7 +15,8 @@ class School
    return roster[student_grade]
   end
   
-  def sort_student(student_name)
-    student_name.sort_by { |roster| roster[:student_name]}
+  def sort(students)
+    students.each do |name|
+      name.sort a<=>b
   end
 end

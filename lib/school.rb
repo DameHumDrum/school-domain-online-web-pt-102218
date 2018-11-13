@@ -16,6 +16,6 @@ class School
   end
   
   def sort_student
-    roster.eac
+    roster.sort
 
 end

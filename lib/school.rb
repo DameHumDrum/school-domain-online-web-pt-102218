@@ -15,6 +15,6 @@ class School
    return roster[student_grade]
   end
   
-  roster.sort
+  @roster.sort
 
 end

@@ -15,6 +15,5 @@ class School
    return roster[student_grade]
   end
   
-  roster.sort {|student_name, grade| student_name.to_s <=> grade.to_s}
-
+  
 end

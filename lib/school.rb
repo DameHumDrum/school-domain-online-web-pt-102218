@@ -15,5 +15,6 @@ class School
    return roster[student_grade]
   end
   
-  
+  def sort_student(student_name)
+    student_name.sort_by {roster
 end
